@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ student new to github and coding in general
 <!--
 **sajtsajt/sajtsajt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
