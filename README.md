@@ -1,4 +1,4 @@
-## Hi there 👋
+## greetings.
 
  student new to github and coding in general
 <!--
